@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# DOS Attack
 
 This project demonstrates a basic DOS attack.
 
